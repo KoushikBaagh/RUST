@@ -1,0 +1,12 @@
+# Ignore compiled artifacts
+/target/
+**/target/
+
+# Ignore Cargo lock files (if you prefer to keep locks out of git across sub-crates)
+Cargo.lock
+**/Cargo.lock
+
+# Optional: ignore temporary files and editor backups
+*.tmp
+*.swp
+*~

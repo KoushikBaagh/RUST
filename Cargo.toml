@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "rustr_app",
+  "todo-cli"
+]
+
+# You can add more members here as you add new subprojects in the RUST directory.
